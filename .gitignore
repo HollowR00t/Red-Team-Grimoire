@@ -1,0 +1,45 @@
+# ==============================
+# 1. SECRETOS Y CREDENCIALES (¡CRÍTICO!)
+# ==============================
+.env
+*.key
+*.pem
+id_rsa
+id_ed25519
+credentials.json
+secrets.txt
+
+# ==============================
+# 2. BASURA DE PYTHON
+# ==============================
+__pycache__/
+*.py[cod]
+*$py.class
+# Entornos virtuales
+venv/
+env/
+.venv/
+
+# ==============================
+# 3. BASURA DE NODE.JS
+# ==============================
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# ==============================
+# 4. BINARIOS Y COMPILADOS (Exploits)
+# ==============================
+*.exe
+*.dll
+*.so
+*.elf
+*.bin
+*.out
+*.o
+
+# ==============================
+# 5. BASURA DEL SISTEMA OPERATIVO
+# ==============================
+.DS_Store
+Thumbs.db
