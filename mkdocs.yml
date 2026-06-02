@@ -15,28 +15,6 @@ theme:
     - content.code.copy
     - navigation.indexes
 
-nav:
-  - 🔮 The Grimoire: index.md
-  - 📜 Methodology:
-    - Pentesting Report: Methodology/Pentesting_Report.md
-    - Vulnerability Assessment: Methodology/Vulnetability_Assessment.md
-  - 👁️ Recognition:
-    - API Enumeration: Recognition/API-Enumeration.md
-    - FTP Anonymous: Recognition/FTP-Anonymous.md
-  - ☢️ Vulnerabilities:
-    - Web:
-      - IDOR: Vulnerabilities/Web/IDOR.md
-      - Insecure Deserialization: Vulnerabilities/Web/Insecure_Deserialization.md
-      - LFI & RFI: Vulnerabilities/Web/LFI_RFI.md
-      - SSRF: Vulnerabilities/Web/SSRF.md
-      - SSTI: Vulnerabilities/Web/SSTI.md
-  - 🔑 Credential Access:
-    - Hashcat Salts: Credential-Access/Hashcat-Salts.md
-  - 🚀 PrivEsc:
-    - Linux:
-      - Capabilities: Escalation-Privileges/Linux/Capabilities.md
-  - 💥 Post-Exploitation:
-    - Database:
-      - MySQL/MariaDB: Post-Exploitation/Database/MySQL-MariaDB.md
-    - Wireless:
-      - Analysis PCAP: Post-Exploitation/Wireless/Analysis-PCAP.md
+plugins:
+  - search
+  - awesome-pages

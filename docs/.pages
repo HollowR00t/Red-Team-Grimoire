@@ -1,0 +1,8 @@
+arrange:
+  - index.md
+  - Methodology
+  - Recognition
+  - Vulnerabilities
+  - Credential-Access
+  - Escalation-Privileges
+  - Post-Exploitation
