@@ -183,6 +183,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "a6ed1c55358359e4",
-  "lastOpenFiles": []
+  "active": "78814a1df93464a2",
+  "lastOpenFiles": [
+    "docs/Credential-Access/Hashcat-Salts.md",
+    "docs/Binary-Exploitation/Stack-BOF-gets.md"
+  ]
 }
