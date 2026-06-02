@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Binary-Exploitation/Stack-BOF-gets.md",
+                "file": "docs/Vulnerabilities/Web/SSTI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Stack-BOF-gets"
+              "title": "SSTI"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Binary-Exploitation/Stack-BOF-gets.md",
+                "file": "docs/Vulnerabilities/Web/SSTI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Stack-BOF-gets"
+              "title": "Backlinks for SSTI"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Binary-Exploitation/Stack-BOF-gets.md",
+                "file": "docs/Vulnerabilities/Web/SSTI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Stack-BOF-gets"
+              "title": "Outgoing links from SSTI"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Binary-Exploitation/Stack-BOF-gets.md",
+                "file": "docs/Vulnerabilities/Web/SSTI.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Stack-BOF-gets"
+              "title": "Outline of SSTI"
             }
           }
         ]
@@ -183,8 +183,19 @@
       "bases:Create new base": false
     }
   },
-  "active": "78814a1df93464a2",
+  "active": "a6ed1c55358359e4",
   "lastOpenFiles": [
+    "docs/Vulnerabilities/Web/SSRF.md",
+    "docs/Vulnerabilities/Web/LFI_RFI.md",
+    "docs/Vulnerabilities/Web/Insecure_Deserialization.md",
+    "docs/Vulnerabilities/Web/IDOR.md",
+    "docs/Post-Exploitation/Wireless/Analysis-PCAP.md",
+    "docs/Post-Exploitation/Database/MySQL-MariaDB.md",
+    "docs/Recognition/FTP-Anonymous.md",
+    "docs/Recognition/API-Enumeration.md",
+    "docs/Methodology/Vulnetability_Assessment.md",
+    "docs/Methodology/Pentesting_Report.md",
+    "docs/Escalation-Privileges/Linux/Capabilities.md",
     "docs/Credential-Access/Hashcat-Salts.md",
     "docs/Binary-Exploitation/Stack-BOF-gets.md"
   ]
