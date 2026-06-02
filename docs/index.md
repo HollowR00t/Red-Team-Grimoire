@@ -5,3 +5,5 @@ Vault of Red Teaming notes, attack methodologies, vulnerability analysis and PoC
 Weak JWT Secret (Ataque de fuerza bruta offline)
 
 JWT Payload Manipulation / Privilege Escalation
+
+
