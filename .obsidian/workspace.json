@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Vulnerabilities/Web/SSTI.md",
+                "file": "docs/Recognition/API-Enumeration.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SSTI"
+              "title": "API-Enumeration"
             }
           }
         ]
@@ -183,19 +183,20 @@
       "bases:Create new base": false
     }
   },
-  "active": "a6ed1c55358359e4",
+  "active": "78814a1df93464a2",
   "lastOpenFiles": [
+    "docs/Post-Exploitation/Wireless/Analysis-PCAP.md",
+    "docs/Post-Exploitation/Database/MySQL-MariaDB.md",
+    "docs/Escalation-Privileges/Linux/Capabilities.md",
+    "docs/Vulnerabilities/Web/SSTI.md",
     "docs/Vulnerabilities/Web/SSRF.md",
     "docs/Vulnerabilities/Web/LFI_RFI.md",
     "docs/Vulnerabilities/Web/Insecure_Deserialization.md",
     "docs/Vulnerabilities/Web/IDOR.md",
-    "docs/Post-Exploitation/Wireless/Analysis-PCAP.md",
-    "docs/Post-Exploitation/Database/MySQL-MariaDB.md",
     "docs/Recognition/FTP-Anonymous.md",
     "docs/Recognition/API-Enumeration.md",
     "docs/Methodology/Vulnetability_Assessment.md",
     "docs/Methodology/Pentesting_Report.md",
-    "docs/Escalation-Privileges/Linux/Capabilities.md",
     "docs/Credential-Access/Hashcat-Salts.md",
     "docs/Binary-Exploitation/Stack-BOF-gets.md"
   ]
